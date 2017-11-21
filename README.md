@@ -1,4 +1,4 @@
-# NN_Keras
+# Building Neural Net using Keras
 
 ## Dataset
 
